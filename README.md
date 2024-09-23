@@ -1,0 +1,1 @@
+when using the dataset, kindly cite : Himdi, H., Weir, G., Assiri, F. et al. Arabic Fake News Detection Based on Textual Analysis. Arab J Sci Eng 47, 10453–10469 (2022). https://doi.org/10.1007/s13369-021-06449-y
